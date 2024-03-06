@@ -1,0 +1,81 @@
+{
+  "books": [
+    {
+      "Author": "Julia Donaldson",
+      "Title": "Tabby McTat",
+      "ISBN": "1407109278",
+      "Synopsis": "Tabby McTat is a purrr-fectly happy busker's cat, until one day he falls in love with Sock, a gorgeous green-eyed cat. But when his busker Fred is hurt and taken away to hospital, Tabby can't find him and misses him terribly. Sock soon has three kittens, the littlest with a deafening miaow and powerful purr. When Tabby finally finds Fred, he is torn between Sock and the lonely busker. All is resolved when the littlest kitten begs to be the busker’s cat. A heart-warming story of friendship, loyalty - and kittens!",
+      "Cover": "tabby_mctat"
+    },
+    {
+      "Author": "Julia Donaldson",
+      "Title": "The Gruffalo",
+      "ISBN": "0230747930",
+      "Synopsis": "'A gruffalo? What's a gruffalo? He has terrible tusks, and terrible claws, and terrible teeth in his terrible jaws.'\nAnd so begins the story of a quick-witted mouse who encounters a host of predators who think he might make a tasty treat. As he ventures deeper into the dark wood, stumbling across a hungry fox, a not-so-wise owl and a slimy snake, spinning yarns about the scary, scaly gruffalo, he quickly realises that the hungry beast he has been talking of isn't imaginary after all.",
+      "Cover": "gruffalo"
+    },
+    {
+      "Author": "Julia Donaldson",
+      "Title": "Monkey Puzzle",
+      "ISBN": "0230747930",
+      "Synopsis": "'It's not too much fun being lost in the jungle, and little monkey wants his mummy. Kindly butterfly is keen to help, but they don't seem to be having much luck as the well-meaning butterfly misunderstands monkey's descriptions and leads him to all sorts of unsuitable animals! But eventually, they find ... Dad! It's just as well that he knows exactly where mum is, and she's waiting with a well-deserved cuddle.",
+      "Cover": "monkey_puzzle"
+    },
+    {
+      "Author": "David Walliams",
+      "Title": "The Midnight Gang",
+      "ISBN": "0230747930",
+      "Synopsis": "Welcome to the Midnight Gang! Midnight is the time when all children are fast asleep, except of course for… the Midnight Gang. That is when their adventures are just beginning... When Tom gets hit on the head by a cricket ball, he finds himself at Lord Funt Hospital, and is greeted by a terrifying-looking porter. Things go from bad to worse when he meets the wicked matron in charge of the children’s ward… But Tom is about to embark on the most thrilling journey of a lifetime!",
+      "Cover": "midnight_gang"
+    },
+    {
+      "Author": "Julia Donaldson",
+      "Title": "The Smartest Giant in Town",
+      "ISBN": "0333963962",
+      "Synopsis": "George wished he wasn't the scruffiest giant in town. So when he sees a new shop selling giant-sized clothes, he decides it's time for a new look: smart trousers, smart shirt, stripy tie, shiny shoes. Now he's the smartest giant in town . . . until he bumps into some animals who desperately need his help - and his clothes!",
+      "Cover": "smartest_giant_in_town"
+    },
+    {
+      "Author": "Julia Donaldson",
+      "Title": "Charlie Cook's Favourite Book",
+      "ISBN": "0142411388",
+      "Synopsis": "Charlie Cook is reading a book about a pirate captain, who is reading a book about Goldilocks, who is reading about a knight, who is reading about a frog . . . From kings and queens to aliens and ghosts, there's something for everyone in Charlie's amazing book!",
+      "Cover": "charlie_cooks_favourite_book"
+    },
+    {
+      "Author": "Julia Donaldson",
+      "Title": "A Squash and a Squeeze",
+      "ISBN": "1405004770",
+      "Synopsis": "'Wise old man, won't you help me, please? My house is a squash and squeeze.'\nA little old lady lives all by herself in her house but she's not happy - it's just too small, even for one. Whatever can she do? The wise old man knows: bring in a flappy, scratchy, greedy, noisy crowd of farmyard animals. When she pushes them all out again, she'll be amazed at how big her house feels!",
+      "Cover": "squash_and_a_squeeze"
+    },
+    {
+      "Author": "Tom Fletcher",
+      "Title": "The Christmasaurus",
+      "ISBN": "0141373326",
+      "Synopsis": "The Christmasaurus is a story about a boy named William Trundle, and a dinosaur, the Christmasaurus. It's about how they meet one Christmas Eve and have a magical adventure. It's about friendship and families, sleigh bells and Santa, singing elves and flying reindeer, music and magic. It's about discovering your heart's true desire, and learning that the impossible might just be possible…",
+      "Cover": "christmasaurus"
+    },
+    {
+      "Author": "Roald Dahl",
+      "Title": "Matilda",
+      "ISBN": "0141346345",
+      "Synopsis": "Matilda Wormwood's father thinks she's a little scab. Matilda's mother spends all afternoon playing bingo. And Matilda's headmistress Miss Trunchbull? Well, she's the worst of all. She is a big bully, who thinks all her pupils are rotten and locks them in the dreaded Chokey. As for Matilda, she's an extraordinary little girl with a magical mind - and now she's had enough. So all these grown-ups had better watch out, because Matilda is going to teach them a lesson they'll never forget.",
+      "Cover": "matilda"
+    },
+    {
+      "Author": "Roald Dahl",
+      "Title": "Charlie and the Chocolate Factory",
+      "ISBN": "0141332123",
+      "Synopsis": "The famous story of Charlie Bucket and his Golden Ticket, and Willy Wonka and his amazing chocolate factory. Mr Willy Wonka, the most wondrous inventor in the world, opens his gates of his amazing chocolate factory to five lucky children. Gobstoppers, wriggle sweets and a river of melted chocolate delight await - Charlie needs just one Golden Ticket and these delicious treats could all be.",
+      "Cover": "charlie_and_the_chocolate_factory"
+    },
+    {
+      "Author": "Judith Kerr",
+      "Title": "Mog the Forgetful Cat",
+      "ISBN": "000717134X",
+      "Synopsis": "Mog always seems to be in trouble. She forgets that she has a cat flap and she forgets that she has already eaten her supper. But, one night, Mog’s forgetfulness comes in very handy...",
+      "Cover": "mog_the_forgetful_cat"
+    }
+  ]
+}
