@@ -258,7 +258,7 @@ Potential improvements for future versions:
 
 ## Contact
 
-For any enquiries or feedback, please contact the development team:
+For any inquiries or feedback, please contact the developer:
 
 - **Supun Wijesooriya**: [GitHub Profile](https://github.com/supunxiii)
 - **Project Repository**: [library-app](https://github.com/supunxiii/library-app)
